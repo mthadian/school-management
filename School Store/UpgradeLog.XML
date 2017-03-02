@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="School Store">
+</Property><Property Name="Solution File" Value="D:\MOVIES\systemm\School Store\School Store.sln">
+</Property><Property Name="User Options File" Value="D:\MOVIES\systemm\School Store\School Store.suo">
+</Property><Property Name="Date" Value="Tuesday, February 10, 2015">
+</Property><Property Name="Time" Value="16:30 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="School Store.sln" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\School Store.sln">
+</Event><Event ErrorLevel="0" Project="" Source="School Store.suo" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\School Store.suo">
+</Event><Event ErrorLevel="0" Project="School Store" Source="School Store.vbproj" Description="Project file successfully backed up as D:\MOVIES\systemm\School Store\Backup\School Store.vbproj">
+</Event><Event ErrorLevel="0" Project="School Store" Source="School Store.vbproj.user" Description="Project user file successfully backed up as D:\MOVIES\systemm\School Store\Backup\School Store.vbproj.user">
+</Event><Event ErrorLevel="0" Project="School Store" Source="ApplicationEvents.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\ApplicationEvents.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="connectionModule.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\connectionModule.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="DataSet1.Designer.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\DataSet1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmItems.Designer.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmItems.Designer.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmItems.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmItems.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmDeptCategory.Designer.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmDeptCategory.Designer.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmDeptCategory.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmDeptCategory.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmLogin.Designer.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmLogin.Designer.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmLogin.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmLogin.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmLPO.Designer.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmLPO.Designer.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmLPO.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmLPO.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmMaster.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmMaster.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmMaster.Designer.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmMaster.Designer.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmReceiver.Designer.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmReceiver.Designer.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmReceiver.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmReceiver.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmRPTConnection.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmRPTConnection.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmRPTHouselist.Designer.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmRPTHouselist.Designer.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmRPTHouselist.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmRPTHouselist.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmSchoolDetails.Designer.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmSchoolDetails.Designer.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmSchoolDetails.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmSchoolDetails.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmStockIn.Designer.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmStockIn.Designer.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmStockIn.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmStockIn.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmSupplier.Designer.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmSupplier.Designer.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmSupplier.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmSupplier.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="Module1.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\Module1.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="My Project\Application.Designer.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmStock_Out.Designer.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmStock_Out.Designer.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmStock_Out.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmStock_Out.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="Parameter forms\frmRPTLPO.Designer.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\Parameter forms\frmRPTLPO.Designer.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="Parameter forms\frmRPTLPO.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\Parameter forms\frmRPTLPO.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="Reports\rptLPO.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\Reports\rptLPO.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="StoreInterface.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\StoreInterface.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="Settings.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\Settings.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="test.Designer.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\test.Designer.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="test.vb" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\test.vb">
+</Event><Event ErrorLevel="0" Project="School Store" Source="app.config" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="School Store" Source="My Project\Application.myapp" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="School Store" Source="My Project\Settings.settings" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="School Store" Source="Resources\sav.jpg" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\Resources\sav.jpg">
+</Event><Event ErrorLevel="0" Project="School Store" Source="Resources\001_29.png" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\Resources\001_29.png">
+</Event><Event ErrorLevel="0" Project="School Store" Source="Resources\close16.png" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\Resources\close16.png">
+</Event><Event ErrorLevel="0" Project="School Store" Source="Resources\add.png" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\Resources\add.png">
+</Event><Event ErrorLevel="0" Project="School Store" Source="Resources\application24.png" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\Resources\application24.png">
+</Event><Event ErrorLevel="0" Project="School Store" Source="DataSet1.xsc" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\DataSet1.xsc">
+</Event><Event ErrorLevel="0" Project="School Store" Source="DataSet1.xsd" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\DataSet1.xsd">
+</Event><Event ErrorLevel="0" Project="School Store" Source="DataSet1.xss" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\DataSet1.xss">
+</Event><Event ErrorLevel="0" Project="School Store" Source="Resources\help1.jpg" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\Resources\help1.jpg">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmItems.resx" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmItems.resx">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmDeptCategory.resx" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmDeptCategory.resx">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmLogin.resx" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmLogin.resx">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmLPO.resx" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmLPO.resx">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmMaster.resx" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmMaster.resx">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmReceiver.resx" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmReceiver.resx">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmRPTHouselist.resx" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmRPTHouselist.resx">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmSchoolDetails.resx" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmSchoolDetails.resx">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmStockIn.resx" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmStockIn.resx">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmSupplier.resx" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmSupplier.resx">
+</Event><Event ErrorLevel="0" Project="School Store" Source="My Project\Resources.resx" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="School Store" Source="frmStock_Out.resx" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\frmStock_Out.resx">
+</Event><Event ErrorLevel="0" Project="School Store" Source="Parameter forms\frmRPTLPO.resx" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\Parameter forms\frmRPTLPO.resx">
+</Event><Event ErrorLevel="0" Project="School Store" Source="Reports\rptLPO.rpt" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\Reports\rptLPO.rpt">
+</Event><Event ErrorLevel="0" Project="School Store" Source="test.resx" Description="File successfully backed up as D:\MOVIES\systemm\School Store\Backup\test.resx">
+</Event><Event ErrorLevel="0" Project="School Store" Source="School Store.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="School Store" Source="School Store.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="School Store.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="School Store.sln" Description="Converted">
+</Event></UpgradeLog>

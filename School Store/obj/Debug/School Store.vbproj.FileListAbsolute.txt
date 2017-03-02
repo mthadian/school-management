@@ -1,0 +1,114 @@
+C:\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\bin\Debug\School Store.exe.config
+C:\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\bin\Debug\School Store.exe
+C:\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\bin\Debug\School Store.pdb
+C:\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\bin\Debug\School Store.xml
+C:\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\obj\Debug\School_Store.frmDep_Category.resources
+C:\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\obj\Debug\School_Store.frmMain.resources
+C:\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\obj\Debug\School_Store.Resources.resources
+C:\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\obj\Debug\School Store.vbproj.GenerateResource.Cache
+C:\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\obj\Debug\School Store.exe
+C:\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\obj\Debug\School Store.xml
+C:\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\obj\Debug\School Store.pdb
+C:\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\bin\Debug\UI Components.dll
+\\NEURON2-PC\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\bin\Debug\School Store.exe.config
+\\NEURON2-PC\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\obj\Debug\School Store.exe
+\\NEURON2-PC\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\obj\Debug\School Store.xml
+\\NEURON2-PC\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\obj\Debug\School Store.pdb
+\\NEURON2-PC\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\bin\Debug\School Store.exe
+\\NEURON2-PC\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\bin\Debug\School Store.pdb
+\\NEURON2-PC\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\bin\Debug\School Store.xml
+\\NEURON2-PC\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\obj\Debug\ResolveAssemblyReference.cache
+\\NEURON2-PC\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\obj\Debug\School_Store.frmDep_Category.resources
+\\NEURON2-PC\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\obj\Debug\School_Store.frmMain.resources
+\\NEURON2-PC\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\obj\Debug\School_Store.Resources.resources
+\\NEURON2-PC\Users\NEURON2\Desktop\Josie's stuff\Josie\Working_Progress_Chain_Of_Distribution\School Store\School Store\obj\Debug\School Store.vbproj.GenerateResource.Cache
+C:\Users\NEURON\Documents\Visual Studio 2008\Projects\School Store\School Store\bin\Debug\School Store.exe.config
+C:\Users\NEURON\Documents\Visual Studio 2008\Projects\School Store\School Store\obj\Debug\School Store.exe
+C:\Users\NEURON\Documents\Visual Studio 2008\Projects\School Store\School Store\obj\Debug\School Store.xml
+C:\Users\NEURON\Documents\Visual Studio 2008\Projects\School Store\School Store\obj\Debug\School Store.pdb
+C:\Users\NEURON\Documents\Visual Studio 2008\Projects\School Store\School Store\bin\Debug\School Store.exe
+C:\Users\NEURON\Documents\Visual Studio 2008\Projects\School Store\School Store\bin\Debug\School Store.pdb
+C:\Users\NEURON\Documents\Visual Studio 2008\Projects\School Store\School Store\bin\Debug\School Store.xml
+C:\Users\NEURON\Documents\Visual Studio 2008\Projects\School Store\School Store\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NEURON\Documents\Visual Studio 2008\Projects\School Store\School Store\obj\Debug\School_Store.frmDep_Category.resources
+C:\Users\NEURON\Documents\Visual Studio 2008\Projects\School Store\School Store\obj\Debug\School_Store.frmMain.resources
+C:\Users\NEURON\Documents\Visual Studio 2008\Projects\School Store\School Store\obj\Debug\School_Store.Resources.resources
+C:\Users\NEURON\Documents\Visual Studio 2008\Projects\School Store\School Store\obj\Debug\School Store.vbproj.GenerateResource.Cache
+C:\Users\NEURON\Documents\Visual Studio 2008\Projects\School Store\School Store\obj\Debug\School_Store.frmItem.resources
+C:\Mini\MiniPC2\school\School Store\School Store\bin\Debug\School Store.exe.config
+C:\Mini\MiniPC2\school\School Store\School Store\bin\Debug\School Store.exe
+C:\Mini\MiniPC2\school\School Store\School Store\bin\Debug\School Store.pdb
+C:\Mini\MiniPC2\school\School Store\School Store\bin\Debug\School Store.xml
+C:\Mini\MiniPC2\school\School Store\School Store\bin\Debug\Interop.FPSpread.dll
+C:\Mini\MiniPC2\school\School Store\School Store\bin\Debug\AxInterop.FPSpread.dll
+C:\Mini\MiniPC2\school\School Store\School Store\obj\Debug\ResolveAssemblyReference.cache
+C:\Mini\MiniPC2\school\School Store\School Store\obj\Debug\Interop.FPSpread.dll
+C:\Mini\MiniPC2\school\School Store\School Store\obj\Debug\AxInterop.FPSpread.dll
+C:\Mini\MiniPC2\school\School Store\School Store\obj\Debug\School Store.vbproj.ResolveComReference.cache
+C:\Mini\MiniPC2\school\School Store\School Store\obj\Debug\School_Store.frmDeptCategory.resources
+C:\Mini\MiniPC2\school\School Store\School Store\obj\Debug\School_Store.frmMaster.resources
+C:\Mini\MiniPC2\school\School Store\School Store\obj\Debug\School_Store.frmItem.resources
+C:\Mini\MiniPC2\school\School Store\School Store\obj\Debug\School_Store.Resources.resources
+C:\Mini\MiniPC2\school\School Store\School Store\obj\Debug\School_Store.test.resources
+C:\Mini\MiniPC2\school\School Store\School Store\obj\Debug\School Store.vbproj.GenerateResource.Cache
+C:\Mini\MiniPC2\school\School Store\School Store\obj\Debug\School Store.exe
+C:\Mini\MiniPC2\school\School Store\School Store\obj\Debug\School Store.xml
+C:\Mini\MiniPC2\school\School Store\School Store\obj\Debug\School Store.pdb
+C:\Users\Public\School Store\School Store\bin\Debug\School Store.exe.config
+C:\Users\Public\School Store\School Store\bin\Debug\School Store.exe
+C:\Users\Public\School Store\School Store\bin\Debug\School Store.pdb
+C:\Users\Public\School Store\School Store\bin\Debug\School Store.xml
+C:\Users\Public\School Store\School Store\bin\Debug\UI Components.dll
+C:\Users\Public\School Store\School Store\bin\Debug\Interop.FPSpread.dll
+C:\Users\Public\School Store\School Store\bin\Debug\AxInterop.FPSpread.dll
+C:\Users\Public\School Store\School Store\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\School Store\School Store\obj\Debug\Interop.FPSpread.dll
+C:\Users\Public\School Store\School Store\obj\Debug\AxInterop.FPSpread.dll
+C:\Users\Public\School Store\School Store\obj\Debug\School Store.vbproj.ResolveComReference.cache
+C:\Users\Public\School Store\School Store\obj\Debug\School_Store.frmItems.resources
+C:\Users\Public\School Store\School Store\obj\Debug\School_Store.frmDeptCategory.resources
+C:\Users\Public\School Store\School Store\obj\Debug\School_Store.frmMaster.resources
+C:\Users\Public\School Store\School Store\obj\Debug\School_Store.frmReceiver.resources
+C:\Users\Public\School Store\School Store\obj\Debug\School_Store.frmRPTHouselist.resources
+C:\Users\Public\School Store\School Store\obj\Debug\School_Store.frmSupplier.resources
+C:\Users\Public\School Store\School Store\obj\Debug\School_Store.Resources.resources
+C:\Users\Public\School Store\School Store\obj\Debug\School_Store.frmStock_Out.resources
+C:\Users\Public\School Store\School Store\obj\Debug\School_Store.frmRPTLPO.resources
+C:\Users\Public\School Store\School Store\obj\Debug\School_Store.test.resources
+C:\Users\Public\School Store\School Store\obj\Debug\School Store.vbproj.GenerateResource.Cache
+C:\Users\Public\School Store\School Store\obj\Debug\School Store.exe
+C:\Users\Public\School Store\School Store\obj\Debug\School Store.xml
+C:\Users\Public\School Store\School Store\obj\Debug\School Store.pdb
+C:\Users\Public\School Store\School Store\obj\Debug\School_Store.frmLPO.resources
+C:\Users\Public\School Store\School Store\obj\Debug\School_Store.frmLogin.resources
+C:\Users\Public\School Store\School Store\obj\Debug\School_Store.frmStockIn.resources
+C:\Users\Public\School Store\School Store\obj\Debug\School_Store.frmSchoolDetails.resources
+D:\MOVIES\systemm\School Store\bin\Debug\School Store.exe.config
+D:\MOVIES\systemm\School Store\obj\Debug\Interop.FPSpread.dll
+D:\MOVIES\systemm\School Store\obj\Debug\AxInterop.FPSpread.dll
+D:\MOVIES\systemm\School Store\obj\Debug\School Store.vbproj.ResolveComReference.cache
+D:\MOVIES\systemm\School Store\obj\Debug\School Store.exe
+D:\MOVIES\systemm\School Store\obj\Debug\School Store.xml
+D:\MOVIES\systemm\School Store\obj\Debug\School Store.pdb
+D:\MOVIES\systemm\School Store\bin\Debug\School Store.exe
+D:\MOVIES\systemm\School Store\bin\Debug\School Store.pdb
+D:\MOVIES\systemm\School Store\bin\Debug\School Store.xml
+D:\MOVIES\systemm\School Store\bin\Debug\Interop.FPSpread.dll
+D:\MOVIES\systemm\School Store\bin\Debug\AxInterop.FPSpread.dll
+D:\MOVIES\systemm\School Store\obj\Debug\School_Store.frmItems.resources
+D:\MOVIES\systemm\School Store\obj\Debug\School_Store.frmDeptCategory.resources
+D:\MOVIES\systemm\School Store\obj\Debug\School_Store.frmLogin.resources
+D:\MOVIES\systemm\School Store\obj\Debug\School_Store.frmLPO.resources
+D:\MOVIES\systemm\School Store\obj\Debug\School_Store.frmMaster.resources
+D:\MOVIES\systemm\School Store\obj\Debug\School_Store.frmReceiver.resources
+D:\MOVIES\systemm\School Store\obj\Debug\School_Store.frmRPTHouselist.resources
+D:\MOVIES\systemm\School Store\obj\Debug\School_Store.frmSchoolDetails.resources
+D:\MOVIES\systemm\School Store\obj\Debug\School_Store.frmStockIn.resources
+D:\MOVIES\systemm\School Store\obj\Debug\School_Store.frmSupplier.resources
+D:\MOVIES\systemm\School Store\obj\Debug\School_Store.Resources.resources
+D:\MOVIES\systemm\School Store\obj\Debug\School_Store.frmStock_Out.resources
+D:\MOVIES\systemm\School Store\obj\Debug\School_Store.frmRPTLPO.resources
+D:\MOVIES\systemm\School Store\obj\Debug\School_Store.test.resources
+D:\MOVIES\systemm\School Store\obj\Debug\School Store.vbproj.GenerateResource.Cache
+D:\MOVIES\systemm\School Store\obj\Debug\School Store.vbprojResolveAssemblyReference.cache
